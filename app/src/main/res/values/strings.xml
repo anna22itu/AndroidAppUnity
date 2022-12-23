@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UnityApp</string>
+    <string name="button">Button</string>
+    <string name="game_view_content_description">Game view</string>
+</resources>
